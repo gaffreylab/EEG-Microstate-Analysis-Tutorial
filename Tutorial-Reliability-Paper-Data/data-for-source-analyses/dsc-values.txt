@@ -1,0 +1,1 @@
+Files used to compute the dice similarity coefficient (DSC) are available upon reasonable request. There are too many files (>500), so they are not uploaded here.
